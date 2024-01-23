@@ -1,0 +1,165 @@
+Timestamp: Mon Jan 15 17:34:08 2024
+### Model: conv_fashion, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 7.573100381176721
+pruning factor: 0.7563205885119839
+best layer: 3
+best threshold value: 0.9998883365226139
+best pos: -86.75
+(Test) (2E) vs (1E + FL + 1E) accuracy: 88.1 vs 88.42 (32 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 89.62666666666667 vs 90.13166666666666 (303 corrections)
+
+Timestamp: Tue Jan 16 12:16:33 2024
+### Model: conv_fashion, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 4.9685006803546
+pruning factor: 0.3599919573704148
+best layer: 4
+best threshold value: 0.9598389914208685
+best pos: -86.72
+(Test) (2E) vs (1E + FL + 1E) accuracy: 88.56 vs 88.86 (30 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 90.29 vs 90.60666666666667 (190 corrections)
+
+Timestamp: Tue Jan 16 12:26:42 2024
+### Model: conv_fashion, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 3.2327439115144543
+pruning factor: 0.7327095455240517
+best layer: 3
+best threshold value: 0.9218337200923882
+best pos: -86.8
+(Test) (2E) vs (1E + FL + 1E) accuracy: 88.68 vs 89.07000000000001 (39 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 90.52166666666666 vs 90.83333333333333 (187 corrections)
+
+Timestamp: Tue Jan 16 12:54:22 2024
+### Model: conv_fashion, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 6.968979824828111
+pruning factor: 0.7288805777163896
+best layer: 4
+best threshold value: 0.91576612064235
+best pos: -86.69
+(Test) (2E) vs (1E + FL + 1E) accuracy: 87.75 vs 88.14999999999999 (40 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 89.46666666666667 vs 90.09 (374 corrections)
+
+Timestamp: Tue Jan 16 13:03:44 2024
+### Model: conv_fashion, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 2.3357619576531206
+pruning factor: 0.6679288193017324
+best layer: 3
+best threshold value: 0.9456595313085772
+best pos: -86.77
+(Test) (2E) vs (1E + FL + 1E) accuracy: 88.75999999999999 vs 89.05999999999999 (30 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 90.535 vs 90.78 (147 corrections)
+
+Timestamp: Tue Jan 16 13:09:22 2024
+### Model: conv_fashion, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 8.261626143550005
+pruning factor: 0.9618328560956078
+best layer: 4
+best threshold value: 0.9864441854685457
+best pos: -86.75
+(Test) (2E) vs (1E + FL + 1E) accuracy: 87.75 vs 88.22 (47 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 89.12 vs 89.89 (462 corrections)
+
+Timestamp: Tue Jan 16 13:43:01 2024
+### Model: conv_fashion, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 4.550856813878518
+pruning factor: 0.04883281928458327
+best layer: 3
+best threshold value: 0.8873955511477616
+best pos: -86.6
+(Test) (2E) vs (1E + FL + 1E) accuracy: 88.27000000000001 vs 88.92999999999999 (66 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 89.78666666666668 vs 90.685 (539 corrections)
+
+Timestamp: Tue Jan 16 14:18:36 2024
+### Model: conv_fashion, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 5.67031189731563
+pruning factor: 0.7148337608445781
+best layer: 4
+best threshold value: 0.9435150912892427
+best pos: -86.75
+(Test) (2E) vs (1E + FL + 1E) accuracy: 88.07000000000001 vs 88.53 (46 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 90.01666666666667 vs 90.37166666666666 (213 corrections)
+
+Timestamp: Tue Jan 16 14:28:41 2024
+### Model: conv_fashion, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 8.087242320793457
+pruning factor: 0.8333483035947553
+best layer: 4
+best threshold value: 0.988129086474647
+best pos: -86.75
+(Test) (2E) vs (1E + FL + 1E) accuracy: 88.02 vs 88.26 (24 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 89.615 vs 90.19500000000001 (348 corrections)
+
+Timestamp: Tue Jan 16 14:45:34 2024
+### Model: conv_fashion, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 3.1246166609378605
+pruning factor: 0.48796684671275004
+best layer: 3
+best threshold value: 0.9071858684535226
+best pos: -86.76
+(Test) (2E) vs (1E + FL + 1E) accuracy: 88.6 vs 88.94 (34 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 90.39 vs 90.77 (228 corrections)
+
+Timestamp: Tue Jan 16 15:03:08 2024
+### Model: conv_fashion, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 4.199137907500489
+pruning factor: 0.23973900754132993
+best layer: 4
+best threshold value: 0.9527302771628492
+best pos: -86.72
+(Test) (2E) vs (1E + FL + 1E) accuracy: 88.58 vs 88.85 (27 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 90.37666666666667 vs 90.70333333333333 (196 corrections)
+

@@ -1,0 +1,150 @@
+Timestamp: Fri Jan 12 10:45:45 2024
+### Model: dense_mnist, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 7.384462121400669
+pruning factor: 0.13287948190137233
+best layer: 4
+best threshold value: 0.9798763137805782
+best pos: -94.19999999999999
+(Test) (2E) vs (1E + FL + 1E) accuracy: 94.94 vs 95.82000000000001 (88 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 95.97166666666666 vs 96.75833333333334 (472 corrections)
+
+Timestamp: Fri Jan 12 10:47:24 2024
+### Model: dense_mnist, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 2.034946289576509
+pruning factor: 0.7961787185865504
+best layer: 4
+best threshold value: 0.9350821438328963
+best pos: -94.45
+(Test) (2E) vs (1E + FL + 1E) accuracy: 95.64 vs 95.84 (20 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 96.6 vs 96.76833333333333 (101 corrections)
+
+Timestamp: Fri Jan 12 10:49:17 2024
+### Model: dense_mnist, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 3.6847643055644452
+pruning factor: 0.6833402518180621
+best layer: 4
+best threshold value: 0.8746879792128677
+best pos: -94.45
+(Test) (2E) vs (1E + FL + 1E) accuracy: 95.36 vs 95.93 (57 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 96.47833333333334 vs 96.81666666666666 (203 corrections)
+
+Timestamp: Fri Jan 12 10:50:58 2024
+### Model: dense_mnist, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 5.4763207462976755
+pruning factor: 0.641637680261132
+best layer: 4
+best threshold value: 0.8687587211642376
+best pos: -94.45
+(Test) (2E) vs (1E + FL + 1E) accuracy: 95.28999999999999 vs 95.88 (59 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 96.21499999999999 vs 96.92 (423 corrections)
+
+Timestamp: Fri Jan 12 10:53:18 2024
+### Model: dense_mnist, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 5.839236450394452
+pruning factor: 0.9826122261606998
+best layer: 4
+best threshold value: 0.8284750225375919
+best pos: -94.43
+(Test) (2E) vs (1E + FL + 1E) accuracy: 95.33 vs 96.00999999999999 (68 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 95.99833333333333 vs 96.705 (424 corrections)
+
+Timestamp: Fri Jan 12 10:55:47 2024
+### Model: dense_mnist, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 3.5341827547860207
+pruning factor: 0.5700565249696281
+best layer: 4
+best threshold value: 0.9511136059061495
+best pos: -94.43
+(Test) (2E) vs (1E + FL + 1E) accuracy: 95.6 vs 95.89999999999999 (30 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 96.565 vs 96.74000000000001 (105 corrections)
+
+Timestamp: Fri Jan 12 10:58:48 2024
+### Model: dense_mnist, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 4.766656777586122
+pruning factor: 0.12968090908297902
+best layer: 2
+best threshold value: 0.9279014038175794
+best pos: -94.08999999999999
+(Test) (2E) vs (1E + FL + 1E) accuracy: 94.69999999999999 vs 95.87 (117 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 95.60499999999999 vs 96.72 (669 corrections)
+
+Timestamp: Fri Jan 12 11:01:05 2024
+### Model: dense_mnist, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 5.553009721424624
+pruning factor: 0.6939480690938342
+best layer: 4
+best threshold value: 0.9221293923245739
+best pos: -94.44
+(Test) (2E) vs (1E + FL + 1E) accuracy: 94.74000000000001 vs 95.81 (107 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 95.77166666666666 vs 96.64833333333334 (526 corrections)
+
+Timestamp: Fri Jan 12 11:02:46 2024
+### Model: dense_mnist, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 6.186390102711016
+pruning factor: 0.5632824905543949
+best layer: 4
+best threshold value: 0.8784584147414396
+best pos: -94.41000000000001
+(Test) (2E) vs (1E + FL + 1E) accuracy: 94.77 vs 95.77 (100 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 95.53666666666668 vs 96.90166666666667 (819 corrections)
+
+Timestamp: Fri Jan 12 11:04:31 2024
+### Model: dense_mnist, 
+### Variable pruning/strength?: True, 
+### SUS. Metric: tarantula, 
+### Dataset: 100.0%
+### PSO: 5 particles / 50 iterations, Early termination? True
+### POST Train: True Training Samples: 60000, Repair Samples: 5000, Testing Samples: 10000
+strength factor: 6.227721273662695
+pruning factor: 0.32026008281519525
+best layer: 4
+best threshold value: 0.9282622011577871
+best pos: -94.42
+(Test) (2E) vs (1E + FL + 1E) accuracy: 94.71000000000001 vs 95.62 (91 corrections)
+(Train) (2E) vs (1E + FL + 1E) accuracy: 95.91 vs 96.80333333333333 (536 corrections)
+
